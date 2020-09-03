@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0C8alo48FUWqBDplt4FzjAAAAAACAAAAAAAQZgAAAAEAACAAAABz+8iqQEE0qWJKsondv5WEs9L8ls8AKkCuGDyV+nOypAAAAAAOgAAAAAIAACAAAABOyQNltqmbhVRX7CJr9bW6YF2qzG2Zg9bh5Ah3i2Pqs4AAAAD9wp/QvwO2nFjlER4Av7KwKBT8+hY+5HVuMvIif4EqXmxuWoP/+nyq08rkSQeSUejSAxyHcC0ffqo3clw44oGDCM8xP6b5Ea4hfikgZaPLn8QUCW2SEiS3FojrEYx4g/9PwJp3OIX2ocznySRoD5EE8bOUWaHJcWrU3X8DuXtbQ0AAAAAs3sqiop8vSmWRBJUStRmRZAvqmmUQReI6YWwcSCu2WXFfgJMefHur4h1tqgu5uvgG6c/OKnClfxq4iMynULAb</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=localhost\SQLExpress%3bDatabase=TravelExperts_Team1%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="travelexperts" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\JunioTech\\Documents\\Training\\SAIT_Webdev\\TravelExperts\ \.NET\\New\ Repo\\travel-experts\\travel-experts\\TravelExperts\.Team1\.WebApp\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
